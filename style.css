@@ -1,44 +1,41 @@
-body{
-background-color: #eee;
-color: #333;
-font-family: Georgia, 'Times New Roman', Times, serif;
+body {
+    background-color: #eee;
+    color: #333;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-main{
-border: 2px solid #999;
-width: 600px;
-margin: auto;
-border-radius: 10px; 
-padding: 20px;
-
-}
-
-header{
-
-
+main {
+    border: 2px solid #999;
+    width: 600px;
+    margin: auto;
+    border-radius: 10px;
+    padding: 20px;
 
 }
 
-section{
-
-
-
-}
-
-nav{
-
-
+header {
+    border: 2px solid #999;
+    height: 150px;
+    margin-bottom: 10px;
 
 }
 
-footer{
+nav {
+    border: 2px solid #999;
+    margin-bottom: 10px;
+}
 
 
-
+section {
+    border: 2px solid #999;
+    margin-bottom: 10px;
 }
 
 aside {
+    border: 2px solid #999;
+    margin-bottom: 10px;
+}
 
-
-
+footer {
+    border: 2px solid #999;
 }
